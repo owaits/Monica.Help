@@ -1,0 +1,14 @@
+- name: Jobs
+  href: jobs/
+
+- name: Relationships
+  href: relationships/
+
+- name: Equipment
+  href: equipment/
+
+- name: Products
+  href: products/
+
+- name: Tasks
+  href: tasks/
